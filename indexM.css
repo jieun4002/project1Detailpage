@@ -57,13 +57,13 @@ header h3{ font-size: 19px; font-weight: 400;}
 .section .img{ position: relative;  margin-bottom: 200px;}
 .section .img p{ text-indent: -9999px; margin: 0;  box-shadow: 5px 5px 10px;}
 .section .img p:first-child{
-  background: url(../images/img2.png) no-repeat 50% /cover;
+  background: url(images/img2.png) no-repeat 50% /cover;
   width: 216px; height: 70px;
   margin: 30px 0 0 50px;
  
 }
 .section .img p:last-child{
-  background:url(../images/img1.png) no-repeat 50% /cover;
+  background:url(images/img1.png) no-repeat 50% /cover;
   width: 202px; height: 61px;
   position: absolute;
   top: 60%;
